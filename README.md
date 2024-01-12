@@ -1,6 +1,6 @@
 # PortSwigger Labs Automations
 
-<center><img src="https://pbs.twimg.com/media/EZB5wifXkAAK0Hg?format=png&name=large" width="400" height="250"></center>
+<p align="center"><img src="https://pbs.twimg.com/media/EZB5wifXkAAK0Hg?format=png&name=large" width="400" height="250"></p>
 
 This repository contains all the automation codes which i have written as part of my practice on the [PortSwigger Web Academy platform](https://portswigger.net/web-security). 
 
