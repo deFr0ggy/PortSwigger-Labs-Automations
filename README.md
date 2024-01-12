@@ -4,7 +4,7 @@
 
 This repository contains all the automation codes which i have written as part of my practice on the [PortSwigger Web Academy platform](https://portswigger.net/web-security). 
 
-Special thanks to [Rana Khalil]() and [Rana Khalil Academy](https://academy.ranakhalil.com/) for the motivation and respect for her great work for the community.
+Special thanks to [Rana Khalil](https://twitter.com/rana__khalil) and [Rana Khalil Academy](https://academy.ranakhalil.com/) for the motivation and respect for her great work for the community.
 
 # Modules
 
