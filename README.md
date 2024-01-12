@@ -15,7 +15,7 @@ This section includes all the labs and their respective codes provided as a solu
 ## Information Disclosure
 
 | S. No  |          Lab Name                                       |                    Status                           | 
-| ----   |          ---------                                      |                     --------                        | 
+| :---------------- | :------: | ----: |
 | 1.     | Information disclosure in error messages                |     [COMPLETED](<Information Disclosure/lab1.py>)   |  
 | 2.     | Information disclosure on debug page                    |     [COMPLETED](<Information Disclosure/lab2.py>)   |  
 | 3.     | Source code disclosure via backup files                 |     [Not Yet](<Information Disclosure/lab3.py>)   |  
