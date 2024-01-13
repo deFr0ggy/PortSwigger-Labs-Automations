@@ -20,4 +20,4 @@ This section includes all the labs and their respective codes provided as a solu
 | 2.     | Information disclosure on debug page                    |     [COMPLETED](<Information Disclosure/lab2.py>)   |  
 | 3.     | Source code disclosure via backup files                 |     [COMPLETED](<Information Disclosure/lab3.py>)   |  
 | 4.     | Authentication bypass via information disclosure        |     [COMPLETED](<Information Disclosure/lab4.py>)   | 
-| 5.     | Information disclosure in version control history       |     [Not Yet](<Information Disclosure/lab5.py>)   | 
+| 5.     | Information disclosure in version control history       |     [COMPLETED](<Information Disclosure/lab5.py>)   | 
