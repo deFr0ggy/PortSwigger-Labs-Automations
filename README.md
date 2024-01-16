@@ -28,3 +28,10 @@ This section includes all the labs and their respective codes provided as a solu
 | :---------------- | :------: | ----: |
 | 1.     | Basic SSRF against the local server                |     [COMPLETED](<Server Side Request Forgery/lab1.py>)   |  
 | 2.     | Basic SSRF against another back-end system          |  [COMPLETED](<Server Side Request Forgery/lab2.py>)   |  
+
+
+## API Testing
+
+| S. No  |          Lab Name                                       |                    Status                           | 
+| :---------------- | :------: | ----: |
+| 1.     | Basic SSRF against the local server                |     [COMPLETED](<API Testing/lab1.py>)   |  
