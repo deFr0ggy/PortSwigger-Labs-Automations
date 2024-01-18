@@ -34,4 +34,5 @@ This section includes all the labs and their respective codes provided as a solu
 
 | S. No  |          Lab Name                                       |                    Status                           | 
 | :---------------- | :------: | ----: |
-| 1.     | Basic SSRF against the local server                |     [COMPLETED](<API Testing/lab1.py>)   |  
+| 1.     | Exploiting an API endpoint using documentation                |     [COMPLETED](<API Testing/lab1.py>)   |  
+| 2.     | Finding and exploiting an unused API endpoint|     [COMPLETED](<API Testing/lab2.py>)   |  
