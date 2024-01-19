@@ -36,3 +36,9 @@ This section includes all the labs and their respective codes provided as a solu
 | :---------------- | :------: | ----: |
 | 1.     | Exploiting an API endpoint using documentation                |     [COMPLETED](<API Testing/lab1.py>)   |  
 | 2.     | Finding and exploiting an unused API endpoint|     [COMPLETED](<API Testing/lab2.py>)   |  
+
+## Click-Jacking
+
+| S. No  |          Lab Name                                       |                    Status                           | 
+| :---------------- | :------: | ----: |
+| 1.     | Basic clickjacking with CSRF token protection                |     [COMPLETED](<ClickJacking/lab1.html>)   |  
