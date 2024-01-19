@@ -42,3 +42,4 @@ This section includes all the labs and their respective codes provided as a solu
 | S. No  |          Lab Name                                       |                    Status                           | 
 | :---------------- | :------: | ----: |
 | 1.     | Basic clickjacking with CSRF token protection                |     [COMPLETED](<ClickJacking/lab1.html>)   |  
+| 2.     | Clickjacking with form input data prefilled from a URL parameter                |     [COMPLETED](<ClickJacking/lab2.html>)   |  
